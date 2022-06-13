@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+I am an enthusiast of learning, challenges, adventures and the world of programming.
 
 <!--
 **XaviOli/XaviOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
