@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I am an enthusiast of learning, challenges, adventures and the world of programming.
 
-![pexels-pixabay-270404](https://user-images.githubusercontent.com/106382364/173431016-a30f5f7e-8fd2-4b0f-b60a-b57fd185a4fe.jpg)
+![Portada-github](https://user-images.githubusercontent.com/106382364/173433370-c6e88e78-bb9f-4b85-a4b6-f16f6a874212.jpg)
 
 <!--
 **XaviOli/XaviOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
