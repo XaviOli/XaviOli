@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there, I’m Xavi 👋 💻
 I am an enthusiast of learning, challenges, adventures and the world of programming.
 
 ![Portada-github](https://user-images.githubusercontent.com/106382364/173433370-c6e88e78-bb9f-4b85-a4b6-f16f6a874212.jpg)
