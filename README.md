@@ -3,6 +3,10 @@ I am an enthusiast of learning, challenges, adventures and the world of programm
 
 ![Portada-github](https://user-images.githubusercontent.com/106382364/173433370-c6e88e78-bb9f-4b85-a4b6-f16f6a874212.jpg)
 
+- 🌱 I’m currently learning Bootstrap5 & Sass
+- 👯 I’m watching, reading & having fun
+- 🧐 I’m so excited
+
 <!--
 **XaviOli/XaviOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
