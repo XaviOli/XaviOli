@@ -3,7 +3,7 @@ I am an enthusiast of learning, challenges, adventures and the world of programm
 
 ![profile-github-1](https://user-images.githubusercontent.com/106382364/173441369-b8a81ceb-196b-48e7-896a-46a945a28533.jpg)
 
-- 🌱 I’m currently learning Bootstrap5 & Sass
+- 🌱 I’m currently learning REACT
 - 👯 I’m watching, reading & having fun
 - 🧐 I’m so excited
 
@@ -13,7 +13,7 @@ I am an enthusiast of learning, challenges, adventures and the world of programm
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning Bootstrap5 & Sass...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
