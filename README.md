@@ -3,7 +3,7 @@ I am an enthusiast of learning, challenges, adventures and the world of programm
 
 ![profile-github-1](https://user-images.githubusercontent.com/106382364/173441369-b8a81ceb-196b-48e7-896a-46a945a28533.jpg)
 
-- 👀 I’m a FrontEnd Developer
+- 👀 I’m a Junior FrontEnd Developer
 - 👯 I’m watching, reading & having fun
 - 🧐 I’m so excited
 
